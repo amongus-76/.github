@@ -1,6 +1,6 @@
 # Among Us Game: Everything You Need to Know 🛸
 
-[![Uploading among.jpg…]()](https://amongus-online.io/)
+[![among](https://github.com/user-attachments/assets/1acde2fe-0519-40e0-9512-8edefec892e4)](https://amongus-online.io/)
 
 ### Play [Among Us here](https://amongus-online.io/)
 
